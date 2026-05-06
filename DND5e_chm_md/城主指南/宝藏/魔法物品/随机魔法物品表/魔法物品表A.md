@@ -1,0 +1,35 @@
+**d100**
+
+**ħ����Ʒ**
+
+01~50
+
+����ҩˮpotion of healing
+
+51~60
+
+��������spell scroll��Ϸ����
+
+61~70
+
+����ҩˮpotion of climbing
+
+71~90
+
+��������spell scroll��1����
+
+91~94
+
+��������spell scroll��2����
+
+95~98
+
+�ߵ�����ҩˮpotion of greater healing
+
+99
+
+��Ԫ��bag of holding
+
+00
+
+Ư��֮��driftglobe

@@ -1,0 +1,17 @@
+# Campaign data (personal/private)
+campaigns/
+
+# Claude Code personal data
+.claude/settings.json
+.claude/settings.local.json
+.claude/projects/
+.claude/scheduled_tasks.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
